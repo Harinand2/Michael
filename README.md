@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Michael!;created+by+Harinand2!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
   <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
 </p>
@@ -38,7 +38,7 @@
 ## Deploy
 You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harinand2/Michael)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAkbotmakersnew%2FLUCIFER)
 
@@ -70,11 +70,11 @@ You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://rail
 ```
 # THANKS TO
 
-• [EvaMaria](https://github.com/EvamariaTG/EvaMaria)
+• [TVK BOTS](https://t.me/tvkbotzupdates)
 
 ## CREATOR
  
-* [JOKER TG🇮🇳](https://t.me/IAM_A_JOKER)
+* [Harinand🇮🇳](https://t.me/Harinand2)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
